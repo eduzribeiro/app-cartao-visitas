@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CartaoVisitas</string>
+    <string name="label_business_card">Cartão de Visita</string>
+    <string name="descricao_novo_cartao">Novo Cartão</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">E-mail</string>
+    <string name="empresa">Empresa</string>
+    <string name="cor">Cor</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="label_show_success">Cartão cadastrado com sucesso!</string>
+    <string name="label_share_to">Compartilhar</string>
+</resources>
